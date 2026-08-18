@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/GabrielCNovaesDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hello!+I'm+Gabriel+Henrique+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Spring+Boot;Solving+problems+through+code;Building+scalable+APIs+%26+robust+systems" alt="Typing SVG" />
+<a href="https://github.com/Brobece">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hello!+I'm+Jo%C3%A3o+Guilherme+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Spring+Boot;Solving+problems+through+code;Building+scalable+APIs+%26+robust+systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 ```java
 @Component
-public class GabrielHenrique {
+public class JoaoGuilherme {
 
     private final String role = "Backend Developer";
     private final String location = "Aracaju, SE - Brazil";
@@ -31,6 +31,8 @@ public class GabrielHenrique {
     }
 }
 ```
+
+I'm **João Guilherme**, but you can call me **Brobece**. 👋
 
 I'm a **Backend Developer** focused on building reliable, scalable and maintainable applications.
 
@@ -88,9 +90,9 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCNovaesDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brobece&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCNovaesDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brobece&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -98,7 +100,7 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=GabrielCNovaesDev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Brobece&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -108,7 +110,7 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielCNovaesDev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Brobece&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
@@ -118,7 +120,7 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/GabrielCNovaesDev/GabrielCNovaesDev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -128,7 +130,7 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCNovaesDev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brobece&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -146,7 +148,7 @@ I'm constantly learning and improving my skills by building projects and solving
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/GabrielCNovaesDev">
+  <a href="https://github.com/Brobece">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
