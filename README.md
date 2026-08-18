@@ -120,7 +120,10 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img
+  src="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
