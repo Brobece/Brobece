@@ -85,28 +85,4 @@ I'm constantly learning and improving my skills by building projects and solving
 
 <br/>
 
-## 📫 Let's Connect
 
-<div align="center">
-
-  <a href="mailto:gabrielhcnovaes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/gabrielhcnovaes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Brobece">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
