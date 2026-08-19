@@ -60,7 +60,6 @@ I'm constantly learning and improving my skills by building projects and solving
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
 </div>
 
@@ -82,59 +81,6 @@ I'm constantly learning and improving my skills by building projects and solving
   <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge&logo=buffer&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID-FF6F00?style=for-the-badge&logo=codefactor&logoColor=white" />
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brobece&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brobece&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=Brobece&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Brobece&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <img
-  src="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brobece&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-
 </div>
 
 <br/>
