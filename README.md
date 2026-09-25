@@ -8,6 +8,68 @@
 
 <br/>
 
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ REST with Spring Boot and Java</h3>
+      <p>REST API built with Java and Spring Boot, featuring DTOs, database migrations, custom exception handling and automated mapper tests.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+      </p>
+      <a href="https://github.com/Brobece/rest-with-spring-boot-and-java"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥽 VirtualR</h3>
+      <p>Responsive frontend built with React and Vite, organized into reusable sections for features, workflow, pricing and testimonials.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <a href="https://github.com/Brobece/virtualr"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Portfolio</h3>
+      <p>Personal portfolio with a responsive layout, project showcase, carousel and contact form published with GitHub Pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <a href="https://github.com/Brobece/Portfolio"><strong>View repository →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Residência I</h3>
+      <p>Academic web project developed during my software residency, bringing together practical frontend development exercises.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+      <a href="https://github.com/Brobece/Residencia_I"><strong>View repository →</strong></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake.svg" />
+    <img alt="Animation of a snake moving through João Guilherme's GitHub contribution graph" src="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
 ## 👨‍💻 About Me
 
 ```java
