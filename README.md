@@ -45,28 +45,17 @@
       <a href="https://github.com/Brobece/Portfolio"><strong>View repository →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Residência I</h3>
-      <p>Academic web project developed during my software residency, bringing together practical frontend development exercises.</p>
+      <h3>⚔️ Bleach Mod</h3>
+      <p>Mod inspired by the Bleach universe, currently in development with new mechanics and content.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Modding-7AA2F7?style=flat-square&logoColor=white" alt="Modding" />
+        <img src="https://img.shields.io/badge/Status-In_Development-F0C674?style=flat-square" alt="Status: In Development" />
       </p>
-      <a href="https://github.com/Brobece/Residencia_I"><strong>View repository →</strong></a>
+      <strong>🚧 In development</strong>
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake.svg" />
-    <img alt="Animation of a snake moving through João Guilherme's GitHub contribution graph" src="https://raw.githubusercontent.com/Brobece/Brobece/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 <br/>
 
