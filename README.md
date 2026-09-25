@@ -19,7 +19,9 @@
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
         <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+        <img src="https://img.shields.io/badge/Status-In_Development-F0C674?style=flat-square" alt="Status: In Development" />
       </p>
+      <p><strong>🚧 In development</strong></p>
       <a href="https://github.com/Brobece/rest-with-spring-boot-and-java"><strong>View repository →</strong></a>
     </td>
     <td width="50%" valign="top">
