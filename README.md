@@ -37,14 +37,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Portfolio</h3>
-      <p>Personal portfolio with a responsive layout, project showcase, carousel and contact form published with GitHub Pages.</p>
+      <h3>🧩 Puzzle Bar</h3>
+      <p>Bar website built with Next.js and TypeScript, featuring a digital menu and demo table reservations, with a Java and Spring Boot backend in development.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
       </p>
-      <a href="https://github.com/Brobece/Portfolio"><strong>View repository →</strong></a>
+      <a href="https://github.com/Brobece/puzzle-bar"><strong>View repository →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>⚔️ Bleach Mod</h3>
